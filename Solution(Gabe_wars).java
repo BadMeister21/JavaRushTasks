@@ -3,7 +3,7 @@ package com.javarush.task.pro.task06.task0622;
 import java.util.Scanner;
 
 /* 
-ФАПАХ VS ПАПИЧ
+ГАБЕН VS ПАПИЧ
 */
 
 public class Solution {
